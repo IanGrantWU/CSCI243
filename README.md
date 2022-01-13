@@ -8,3 +8,4 @@ BUGFIXES
 - Fixed occasional clipping into floor
 - Pots and vases now render properly
 - Another bug!
+One more change
